@@ -11,6 +11,8 @@ description: Software Developer from Cape Town
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/6260294
 
+url: http://afrith.github.io/
+
 #
 # Flags below are optional
 #
@@ -18,14 +20,14 @@ avatar: https://avatars0.githubusercontent.com/u/6260294
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: adrian@adrianfrith.com
   facebook: AdrianFrith
   flickr:
   github: afrith
   instagram:
-  linkedin:
+  linkedin: adrianfrith
   pinterest:
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  rss: feed.xml # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: adrianfrith
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
