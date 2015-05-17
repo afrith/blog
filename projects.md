@@ -12,7 +12,7 @@ Statistics South Africa doesn't make census data available on the web for the so
 
 ###Census dot-maps
 
-These maps show the racial distribution of the population in South African cities. See the blog post for more details.
+These maps show the racial distribution of the population in South African cities. See [the blog post for more details](http://blog.adrianfrith.com/dot-maps/).
 
 ###Election results maps
 
