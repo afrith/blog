@@ -1,6 +1,7 @@
 ---
 layout: post
 title: South African provinces as they might have been
+image: images/affected-areas.png
 ---
 
 The post-apartheid political map of South Africa might well have looked quite different. The Eastern Cape might have been divided into two provinces, with the Kat River and Great Fish River on the boundary. The Northern Cape might not have existed, with the Western Cape meeting North West at the Orange River. Gauteng might have been much bigger – or much smaller. The Western Cape might have stopped south of Citrusdal – or it might have incorporated all of Namaqualand.
