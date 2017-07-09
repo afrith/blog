@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How many people live in countries where same-sex marriage is legal?
+image: images/ssm-chart.png
 ---
 
 After the recent US Supreme Court ruling legalising same-sex marriage (SSM) throughout that country, a claim was recently brought up [on a Wikipedia talk page](https://en.wikipedia.org/wiki/Talk:Same-sex_marriage#One_billion_milestone) that more than one billion people now live in countries (or states/provinces) where SSM is legal. I thought I'd check out the numbers, and update my old graph showing how this has changed over time.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Follow-up - geometric median centres of population
+image: images/geometric-medians-60dpi.png
 ---
 
 My post yesterday [discussed the mean centres of population of South Africa and its provinces](/centres-of-population/). The mean centre is (relatively) easy to calculate, but it may not be the most useful type of population centre. It is essentially an arithmetic mean, which means that outliers can have a massive effect on the centre. It minimizes the average *square* of distance from the centre, not the average distance from the centre. The centre that *does* minimize the average distance is called the [geometric median](http://en.wikipedia.org/wiki/Geometric_median), and it is not quite so simple to calculate, since there is no closed form solution. But it can be done!

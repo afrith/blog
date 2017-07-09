@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Centres of population of South Africa
+image: images/mean-centres-60dpi.png
 ---
 
 ***Follow-up:*** *a subsequent post [describes the geometric median centre of population](/geometric-mean-centres/), which is some respects a more sensible definition than the mean centre of population described here.*
