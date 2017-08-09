@@ -130,6 +130,18 @@ img {
   background: $lightGray;
 }
 
+figcaption {
+  text-align: center;
+  font-size: 85%;
+  font-style: italic;
+}
+
+.imagepair {
+  width:49%;
+  display:inline-block;
+  margin: 0 auto;
+}
+
 // Nicolas Gallagher's micro clearfix hack
 // http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
