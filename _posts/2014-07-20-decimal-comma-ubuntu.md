@@ -7,7 +7,8 @@ At some point in school, we South Africans are told that the official [decimal s
 
 Unfortunately, the developers of Ubuntu Linux have come across [a government communications style guide](http://www.gcis.gov.za/sites/default/files/editorial_styleguide_2011.pdf)—a style guide widely ignored even within the government—which specifies the use of the decimal comma. They have therefore included in Ubuntu a patch which changes the decimal separator for South African English to a comma.[³](#n3) Reversing this change is one of the first things I do after setting up a new Ubuntu (or Linux Mint) install. Fortunately it is quite easy, and I give the instructions here to help those who suffer from the same annoyance.
 
-##The simple way
+## The simple way
+
 Run the command
 
     sudo update-locale LC_NUMERIC="en_GB.UTF-8"
@@ -16,11 +17,11 @@ The change won't take effect until you log out and back in again. This tells you
 
 (If, for some reason, `update-locale` doesn't work for you, you can produce the same results by adding the line `LC_NUMERIC="en_GB.UTF-8"` to the file `/etc/default/locale`.)
 
-##The problem
+## The problem
 
 This method changes `LC_NUMERIC` which defines the format for ordinary numbers, but not `LC_MONETARY`, which defines the format for currency values. We could change `LC_MONETARY` to "`en_GB.UTF-8`", but then it would also change the currency symbol from "R" to "£".
 
-##The complicated way
+## The complicated way
 
 If we want to change the decimal separator for monetary values, without changing the currency symbol, we will have to edit the `en_ZA` locale definitions. You can download [my patch file `en_ZA-decimal-point.patch`](http://stuff.adrianfrith.com/en_ZA-decimal-point.patch), and then apply it to the locale definitions by running the commands
 

@@ -6,11 +6,11 @@ image: images/geometric-medians-60dpi.png
 
 My post yesterday [discussed the mean centres of population of South Africa and its provinces](/centres-of-population/). The mean centre is (relatively) easy to calculate, but it may not be the most useful type of population centre. It is essentially an arithmetic mean, which means that outliers can have a massive effect on the centre. It minimizes the average *square* of distance from the centre, not the average distance from the centre. The centre that *does* minimize the average distance is called the [geometric median](http://en.wikipedia.org/wiki/Geometric_median), and it is not quite so simple to calculate, since there is no closed form solution. But it can be done!
 
-##Methodology
+## Methodology
 
 Finding the geometric median uses an iterative method known as Weiszfeld's algorithm, which is described in [section 2.2 here](http://www.or.uni-bonn.de/~vygen/files/fl.pdf) (amongst many other places). As before, the calculations were performed using a PostGIS spatial database with the small area layer from Census 2011. The code implementing Weiszfeld's algorithm is in [this GitHub repository](https://github.com/afrith/geometric-median); it is a naive implementation but sufficient for this purpose.
 
-##Results
+## Results
 
 <div style="float:right;width:300px;padding:5px;">
 <a href="/images/geometric-medians-150dpi.png" target="_blank"><img src="/images/geometric-medians-60dpi.png" width="300" height="263" /></a>

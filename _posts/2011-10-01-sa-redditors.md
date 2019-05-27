@@ -32,6 +32,7 @@ I didn’t draw a chart of the answers to the “favourite subreddit” question
 * /r/askscience: 3 people
 * /r/iama: 3 people
 * /r/programming: 3 people
+
 (I counted “f7u12” responses towards fffffffuuuuuuuuuuuu.)
 
 Finally, there are the two really serious questions. It turns out that South African redditors are mostly dog people:

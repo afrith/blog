@@ -13,11 +13,11 @@ image: images/mean-centres-60dpi.png
 
 The [centre of population](http://en.wikipedia.org/wiki/Center_of_population) is a point that represents an "average" location of the people in a country or other area; exactly what that "average" is depends on the way the centre is calculated. As far as I can tell, nobody has calculated a centre of population of South Africa; at least nobody has published it anywhere that Google can find. So I've calculated one myself, both out of interest and also in case anyone else finds it useful. I also calculated the centre of population of each province.
 
-##Methodology
+## Methodology
 
 The method of calculation is that described in the US Census Bureau publication *[Centers of Population Computation for the United States](http://www.census.gov/geo/reference/pdfs/cenpop2010/COP2010_documentation.pdf)*. This method produces a mean centre of population, and adjusts for the fact that the distance between meridians (lines of longitude) decreases with latitude. The calculations were performed in a PostGIS spatial database using the Census 2011 small area layer, the most detailed level of population data available fron the census.
 
-##Results
+## Results
 
 The national centre of population is located at [28.28430°S 27.70690°E](http://www.google.co.za/maps/place/-28.28430,27.70690/@-28.28430,27.70690,10z/), at the foot of Ghwarriekop just outside the town of Senekal in the Free State. (If we ever decide to move all the branches of national government to one place, perhaps Senekal should be the site.) The population centre is substantially further east than the geographic centre of South Africa because South Africa is much more densely populated in the east than the west, as can be seen from the map above.
 
