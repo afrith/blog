@@ -36,3 +36,5 @@ An interesting feature to note is that the former ["homelands"](https://en.wikip
 <a href="/images/linguistic-diversity-homelands.png" target="_blank"><img src="/images/linguistic-diversity-homelands-thumb.png" alt="A map of South Africa showing the linguistic diversity index calculated on a 10-kilometre-wide hexagonal grid with former homeland boundaries overlaid" title="Linguistic diversity map of South Africa with homeland boundaries" /></a>
 <figcaption>Linguistic diversity and former homelands</figcaption>
 </figure>
+
+The code I used to create the hexagonal grid and calculate the linguistic diversity index can be found in [this GitHub repository](https://github.com/afrith/language-diversity-index/tree/master).
