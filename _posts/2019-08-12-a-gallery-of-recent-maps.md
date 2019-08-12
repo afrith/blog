@@ -19,7 +19,7 @@ The data comes from the 1996, 2001 and 2011 Censuses and the 2007 and 2016 Commu
 
 A note: I don't think there was actually a big regression from 2007 to 2011; rather I suspect the Community Survey 2007 was inaccurate, especially in the sparsely-populated western part of the country where the sample would have been very small.
 
-## Overstrand land ownnership
+## Overstrand land ownership
 
 This map shows state, municipal and private land ownership in the [Overstrand Municipality](https://en.wikipedia.org/wiki/Overstrand_Local_Municipality), which lies along the coast southeast of Cape Town. It also shows the distinction between town erven and farm portions.
 
