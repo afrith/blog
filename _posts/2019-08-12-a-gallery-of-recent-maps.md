@@ -4,7 +4,7 @@ title: A gallery of recent maps
 image: images/mesozone-density-change-1996-2016-thumb.png
 ---
 
-This map presents a selection of maps I have produced in the last few weeks. If you follow me [on Twitter](https://twitter.com/adrianfrith/) or [on Reddit](https://www.reddit.com/user/ctnguy/posts/) you will have seen most of these already. All the images below are clickable thumbnails which link to a full-size version.
+This post presents a selection of maps I have produced in the last few weeks. If you follow me [on Twitter](https://twitter.com/adrianfrith/) or [on Reddit](https://www.reddit.com/user/ctnguy/posts/) you will have seen most of these already. All the images below are clickable thumbnails which link to a full-size version.
 
 ## Electrification
 
