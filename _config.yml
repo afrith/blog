@@ -90,3 +90,5 @@ exclude:
     - README.md
     - CNAME
     - vendor
+    - Dockerfile
+    - nginx
