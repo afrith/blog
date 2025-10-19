@@ -130,9 +130,13 @@ img {
   background: $lightGray;
 }
 
+figure {
+  margin: 1em 0;
+  text-align: center;
+}
+
 figcaption {
   text-align: center;
-  font-size: 85%;
   font-style: italic;
 }
 
