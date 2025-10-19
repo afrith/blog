@@ -4,10 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm a 30-something gay Capetonian guy. I'm a software developer by profession, with a particular interest in geographical data and mapping. I currently work as the Campaign Technology Specialist for the [Democratic Alliance](http://www.da.org.za/). This is my blog where I write (occasionally) about things that take my interest. Often those involve Linux and/or open-source software and/or stuff related to GIS and geographical data.
+I'm a 30-something gay Capetonian guy. I'm a software developer by profession, with a particular interest in geographical data and mapping. I currently work as the Software Architect for the [Democratic Alliance](http://www.da.org.za/). This is my blog where I write (occasionally) about things that take my interest. Often those involve Linux and/or open-source software and/or stuff related to GIS and geographical data.
 
 ![Picture of me](/images/selfie.jpeg)
 
 ### Contact me
 
-My Facebook profile is [AdrianFrith](https://www.facebook.com/AdrianFrith), my Twitter account is [@adrianfrith](https://twitter.com/adrianfrith), and my email address is [adrian@adrianfrith.com](mailto:adrian@adrianfrith.com).
+Email me at [adrian@adrianfrith.com](mailto:adrian@adrianfrith.com) or use any of the social media links in the footer below.
+My GitHub name is [afrith](https://github.com/afrith).
