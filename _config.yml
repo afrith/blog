@@ -27,7 +27,8 @@ footer-links:
   mastodon: https://social.frith.dev/@adrian
   pinterest:
   rss: feed.xml # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: adrianfrith
+  twitter: 
+  bluesky: adrian.frith.dev
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
